@@ -1,0 +1,49 @@
+# Composer dependencies
+/vendor/
+
+# Configuration file with sensitive data
+
+config.php
+
+# IDE specific files
+
+.idea/
+\*.iml
+\*.project
+\*.settings/
+\*.vscode/
+
+# OS generated files
+
+.DS\_Store
+Thumbs.db
+Desktop.ini
+
+# Log files
+
+\*.log
+logs/
+*.log.*
+
+# Build artifacts or uploaded files (if any stored locally and not meant for repo)
+
+# Example: /uploads/
+
+# Example: /build/
+
+# Environment specific files
+
+.env
+.env.\*
+\!.env.example
+
+# Cache files
+
+cache/
+\*.cache
+
+# Temporary files
+
+\*.tmp
+\*.temp
+\*\~
