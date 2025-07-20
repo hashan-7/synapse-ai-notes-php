@@ -100,3 +100,7 @@ The core idea is to explore the practical integration of AI (specifically Huggin
 This is a student project currently under development. The PHP version aims to implement the core functionalities. Future work may involve refining features, enhancing UI/UX, and potentially exploring other technology stacks (like Java Spring Boot for a comparative implementation).
 
 -----
+
+<p align="center">
+  Made with ❤️ by h7
+</p>
