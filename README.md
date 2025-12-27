@@ -32,7 +32,7 @@ The core idea is to explore the practical integration of AI (specifically Huggin
 1.  **Clone the Repository (or download files):**
 
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone [https://github.com/hashan-7/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
     cd YOUR_REPOSITORY_NAME
     ```
 
