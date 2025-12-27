@@ -1,4 +1,4 @@
-# Synapse AI Notes (PHP Version)
+# Synapse AI Notes 📖💡(PHP Version)
 
 ## Project Description
 
@@ -9,13 +9,22 @@ The core idea is to explore the practical integration of AI (specifically Huggin
 ## Key Features
 
   * **User Authentication:** Secure login via Google OAuth2.
+
   * **Note Management (CRUD):** Create, Read, Update, and Delete notes.
+
   * **Subject Management (CRUD):** Organize notes under different subjects/categories created by the user.
+
   * **AI-Powered Summarization:** Automatic generation of concise summaries for longer notes using Hugging Face API.
+
   * **AI-Powered Categorization:** Suggestion of relevant categories for notes based on their content using Hugging Face API.
+
   * **Dynamic Dashboard:** View all notes, filter by subject, and search by note title.
+
   * **User Profile Management:** View user profile details (name, email, profile picture).
+
   * **Responsive Design:** User interface adaptable to different screen sizes.
+
+---
 
 ## Technologies Used
 
@@ -27,13 +36,15 @@ The core idea is to explore the practical integration of AI (specifically Huggin
   * **Dependency Management (PHP):** Composer
   * **Local Development Server:** XAMPP / WAMP / MAMP (or similar)
 
+---
+
 ## Setup and Installation
 
 1.  **Clone the Repository (or download files):**
 
     ```bash
-    git clone [https://github.com/hashan-7/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-    cd YOUR_REPOSITORY_NAME
+    git clone [https://github.com/hashan-7/synapse-ai-notes-php.git](https://github.com/hashan-7/synapse-ai-notes-php.git)
+    cd synapse-ai-notes-php
     ```
 
 2.  **Web Server:**
@@ -89,7 +100,7 @@ The core idea is to explore the practical integration of AI (specifically Huggin
         ```
         (This will install the `google/apiclient` library into a `vendor` folder).
 
-## How to Run
+## How to Run 
 
 1.  Ensure your Apache and MySQL services (from XAMPP/WAMP/MAMP) are running.
 2.  Open your web browser and navigate to the project's URL (e.g., `http://localhost/YOUR_PROJECT_FOLDER_NAME/` or `http://localhost/YOUR_PROJECT_FOLDER_NAME/index.php`).
